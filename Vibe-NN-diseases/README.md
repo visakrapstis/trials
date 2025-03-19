@@ -2,6 +2,8 @@
 
 A neural network-based disease prediction system using symptom patterns. This project demonstrates the application of deep learning in medical diagnosis assistance.
 
+CAVE: Please note, that the data is fully AI-generated and randomly synthesized / augmented. It trully in this case only is a representation of fast pased AI generated workflow, including cursor, MCPs. 
+
 ## Project Overview
 
 The project was developed in three main steps:
