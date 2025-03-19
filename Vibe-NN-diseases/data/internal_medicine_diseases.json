@@ -1,16 +1,1142 @@
 {
   "diseases": [
     {
+      "name": "Hypertension (Essential)",
+      "symptoms": [
+        "Often asymptomatic",
+        "Headache",
+        "Dizziness",
+        "Shortness of breath",
+        "Chest pain",
+        "Visual changes",
+        "Nosebleeds",
+        "Tinnitus"
+      ]
+    },
+    {
+      "name": "Type 2 Diabetes Mellitus",
+      "symptoms": [
+        "Increased thirst",
+        "Frequent urination",
+        "Increased hunger",
+        "Fatigue",
+        "Blurred vision",
+        "Slow-healing sores",
+        "Frequent infections",
+        "Numbness in hands/feet",
+        "Dark skin patches (acanthosis nigricans)"
+      ]
+    },
+    {
+      "name": "Coronary Artery Disease",
+      "symptoms": [
+        "Chest pain (angina)",
+        "Shortness of breath",
+        "Fatigue",
+        "Neck/jaw/arm pain",
+        "Nausea",
+        "Sweating",
+        "Dizziness",
+        "Heart palpitations",
+        "Weakness"
+      ]
+    },
+    {
+      "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "symptoms": [
+        "Shortness of breath",
+        "Chronic cough",
+        "Sputum production",
+        "Wheezing",
+        "Chest tightness",
+        "Fatigue",
+        "Frequent respiratory infections",
+        "Morning headaches",
+        "Cyanosis"
+      ]
+    },
+    {
+      "name": "Gastroesophageal Reflux Disease (GERD)",
+      "symptoms": [
+        "Heartburn",
+        "Regurgitation",
+        "Chest pain",
+        "Difficulty swallowing",
+        "Chronic cough",
+        "Hoarseness",
+        "Sore throat",
+        "Bad breath",
+        "Nausea"
+      ]
+    },
+    {
+      "name": "Chronic Kidney Disease",
+      "symptoms": [
+        "Fatigue",
+        "Decreased urine output",
+        "Swelling in legs/ankles/feet",
+        "Shortness of breath",
+        "Nausea",
+        "Confusion",
+        "Chest pain",
+        "Sleep problems",
+        "Itching"
+      ]
+    },
+    {
       "name": "Rheumatoid Arthritis",
-      "symptoms": ["Joint Pain", "Morning Stiffness", "Fatigue", "Fever", "Joint Swelling", "Symmetrical Joint Involvement", "Weight Loss", "Rheumatoid Nodules"]
+      "symptoms": [
+        "Joint pain and swelling",
+        "Morning stiffness",
+        "Fatigue",
+        "Fever",
+        "Weight loss",
+        "Weakness",
+        "Rheumatoid nodules",
+        "Joint deformity",
+        "Eye inflammation"
+      ]
+    },
+    {
+      "name": "Asthma",
+      "symptoms": [
+        "Wheezing",
+        "Shortness of breath",
+        "Chest tightness",
+        "Coughing",
+        "Difficulty sleeping",
+        "Exercise intolerance",
+        "Anxiety",
+        "Fatigue",
+        "Rapid breathing"
+      ]
+    },
+    {
+      "name": "Hypothyroidism",
+      "symptoms": [
+        "Fatigue",
+        "Weight gain",
+        "Cold intolerance",
+        "Dry skin",
+        "Hair loss",
+        "Depression",
+        "Memory problems",
+        "Constipation",
+        "Muscle weakness",
+        "Joint pain"
+      ]
     },
     {
       "name": "Inflammatory Bowel Disease",
-      "symptoms": ["Abdominal Pain", "Diarrhea", "Weight Loss", "Fatigue", "Fever", "Blood in Stool", "Joint Pain", "Skin Lesions"]
+      "symptoms": [
+        "Abdominal pain",
+        "Diarrhea",
+        "Weight loss",
+        "Fatigue",
+        "Blood in stool",
+        "Reduced appetite",
+        "Fever",
+        "Night sweats",
+        "Joint pain"
+      ]
     },
     {
       "name": "Systemic Lupus Erythematosus",
-      "symptoms": ["Joint Pain", "Fatigue", "Fever", "Butterfly Rash", "Photosensitivity", "Hair Loss", "Raynaud's Phenomenon", "Kidney Problems"]
+      "symptoms": [
+        "Fatigue",
+        "Joint pain",
+        "Butterfly rash",
+        "Fever",
+        "Photosensitivity",
+        "Hair loss",
+        "Mouth ulcers",
+        "Raynaud's phenomenon",
+        "Chest pain"
+      ]
+    },
+    {
+      "name": "Chronic Hepatitis B",
+      "symptoms": [
+        "Often asymptomatic",
+        "Fatigue",
+        "Abdominal pain",
+        "Loss of appetite",
+        "Nausea",
+        "Jaundice",
+        "Dark urine",
+        "Joint pain",
+        "Fever"
+      ]
+    },
+    {
+      "name": "Multiple Sclerosis",
+      "symptoms": [
+        "Fatigue",
+        "Vision problems",
+        "Numbness/tingling",
+        "Muscle weakness",
+        "Balance problems",
+        "Cognitive changes",
+        "Depression",
+        "Bladder dysfunction",
+        "Sexual problems"
+      ]
+    },
+    {
+      "name": "Celiac Disease",
+      "symptoms": [
+        "Diarrhea",
+        "Abdominal pain",
+        "Bloating",
+        "Fatigue",
+        "Weight loss",
+        "Anemia",
+        "Skin rash",
+        "Depression",
+        "Bone loss"
+      ]
+    },
+    {
+      "name": "Chronic Heart Failure",
+      "symptoms": [
+        "Shortness of breath",
+        "Fatigue",
+        "Swelling in legs/ankles",
+        "Rapid heartbeat",
+        "Weakness",
+        "Reduced exercise tolerance",
+        "Cough",
+        "Nocturia",
+        "Confusion"
+      ]
+    },
+    {
+      "name": "Parkinson's Disease",
+      "symptoms": [
+        "Tremor",
+        "Bradykinesia",
+        "Muscle rigidity",
+        "Balance problems",
+        "Speech changes",
+        "Writing changes",
+        "Depression",
+        "Sleep problems",
+        "Loss of smell"
+      ]
+    },
+    {
+      "name": "Osteoporosis",
+      "symptoms": [
+        "Often asymptomatic",
+        "Back pain",
+        "Loss of height",
+        "Stooped posture",
+        "Bone fractures",
+        "Reduced mobility",
+        "Compressed vertebrae",
+        "Neck pain"
+      ]
+    },
+    {
+      "name": "Chronic Pancreatitis",
+      "symptoms": [
+        "Abdominal pain",
+        "Weight loss",
+        "Diarrhea",
+        "Nausea",
+        "Vomiting",
+        "Fatty stools",
+        "Diabetes",
+        "Malnutrition"
+      ]
+    },
+    {
+      "name": "Sarcoidosis",
+      "symptoms": [
+        "Fatigue",
+        "Shortness of breath",
+        "Cough",
+        "Night sweats",
+        "Weight loss",
+        "Joint pain",
+        "Skin lesions",
+        "Eye problems",
+        "Enlarged lymph nodes"
+      ]
+    },
+    {
+      "name": "Primary Biliary Cirrhosis",
+      "symptoms": [
+        "Fatigue",
+        "Itching",
+        "Dry eyes/mouth",
+        "Jaundice",
+        "Abdominal pain",
+        "Dark urine",
+        "Bone pain",
+        "Memory problems"
+      ]
+    },
+    {
+      "name": "Addison's Disease",
+      "symptoms": [
+        "Fatigue",
+        "Muscle weakness",
+        "Weight loss",
+        "Low blood pressure",
+        "Salt craving",
+        "Skin darkening",
+        "Depression",
+        "Nausea",
+        "Dizziness"
+      ]
+    },
+    {
+      "name": "Polymyalgia Rheumatica",
+      "symptoms": [
+        "Morning stiffness",
+        "Shoulder pain",
+        "Hip pain",
+        "Fatigue",
+        "Low-grade fever",
+        "Depression",
+        "Weight loss",
+        "Limited range of motion"
+      ]
+    },
+    {
+      "name": "Pulmonary Embolism",
+      "symptoms": [
+        "Sudden shortness of breath",
+        "Chest pain",
+        "Rapid heartbeat",
+        "Anxiety",
+        "Cough",
+        "Fever",
+        "Leg pain/swelling",
+        "Dizziness",
+        "Sweating"
+      ]
+    },
+    {
+      "name": "Myasthenia Gravis",
+      "symptoms": [
+        "Muscle weakness",
+        "Drooping eyelids",
+        "Double vision",
+        "Difficulty speaking",
+        "Trouble swallowing",
+        "Fatigue",
+        "Shortness of breath",
+        "Weakness worsening with activity"
+      ]
+    },
+    {
+      "name": "Primary Sclerosing Cholangitis",
+      "symptoms": [
+        "Fatigue",
+        "Itching",
+        "Jaundice",
+        "Abdominal pain",
+        "Weight loss",
+        "Night sweats",
+        "Fever",
+        "Dark urine"
+      ]
+    },
+    {
+      "name": "Temporal Arteritis",
+      "symptoms": [
+        "Headache",
+        "Scalp tenderness",
+        "Jaw pain",
+        "Vision problems",
+        "Fever",
+        "Fatigue",
+        "Weight loss",
+        "Shoulder/hip pain"
+      ]
+    },
+    {
+      "name": "Ankylosing Spondylitis",
+      "symptoms": [
+        "Lower back pain",
+        "Morning stiffness",
+        "Reduced spine flexibility",
+        "Fatigue",
+        "Eye inflammation",
+        "Hip pain",
+        "Heel pain",
+        "Chest pain"
+      ]
+    },
+    {
+      "name": "Graves' Disease",
+      "symptoms": [
+        "Weight loss",
+        "Anxiety",
+        "Heat intolerance",
+        "Tremors",
+        "Bulging eyes",
+        "Rapid heartbeat",
+        "Sweating",
+        "Muscle weakness",
+        "Irritability"
+      ]
+    },
+    {
+      "name": "Hemochromatosis",
+      "symptoms": [
+        "Joint pain",
+        "Fatigue",
+        "Abdominal pain",
+        "Loss of sex drive",
+        "Skin darkening",
+        "Diabetes",
+        "Heart problems",
+        "Liver problems"
+      ]
+    },
+    {
+      "name": "Polycystic Kidney Disease",
+      "symptoms": [
+        "High blood pressure",
+        "Back/side pain",
+        "Blood in urine",
+        "Kidney stones",
+        "Urinary tract infections",
+        "Headaches",
+        "Kidney failure",
+        "Liver cysts"
+      ]
+    },
+    {
+      "name": "Polymyositis",
+      "symptoms": [
+        "Muscle weakness",
+        "Difficulty swallowing",
+        "Fatigue",
+        "Shortness of breath",
+        "Joint pain",
+        "Fever",
+        "Weight loss",
+        "Raynaud's phenomenon"
+      ]
+    },
+    {
+      "name": "Amyloidosis",
+      "symptoms": [
+        "Fatigue",
+        "Weight loss",
+        "Swelling",
+        "Shortness of breath",
+        "Numbness",
+        "Carpal tunnel syndrome",
+        "Diarrhea",
+        "Heart problems"
+      ]
+    },
+    {
+      "name": "Behcet's Disease",
+      "symptoms": [
+        "Mouth sores",
+        "Genital sores",
+        "Eye inflammation",
+        "Skin lesions",
+        "Joint pain",
+        "Blood vessel inflammation",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    {
+      "name": "Wilson's Disease",
+      "symptoms": [
+        "Liver problems",
+        "Movement problems",
+        "Speech changes",
+        "Psychiatric problems",
+        "Golden-brown eye rings",
+        "Anemia",
+        "Kidney problems",
+        "Tremors"
+      ]
+    },
+    {
+      "name": "Goodpasture's Syndrome",
+      "symptoms": [
+        "Coughing up blood",
+        "Shortness of breath",
+        "Fatigue",
+        "Blood in urine",
+        "Chest pain",
+        "Fever",
+        "Joint pain",
+        "Nausea"
+      ]
+    },
+    {
+      "name": "Cushing's Syndrome",
+      "symptoms": [
+        "Weight gain",
+        "Round face",
+        "Buffalo hump",
+        "Purple stretch marks",
+        "High blood pressure",
+        "Diabetes",
+        "Muscle weakness",
+        "Mood changes"
+      ]
+    },
+    {
+      "name": "Wegener's Granulomatosis",
+      "symptoms": [
+        "Sinus problems",
+        "Nose bleeds",
+        "Shortness of breath",
+        "Cough",
+        "Joint pain",
+        "Skin sores",
+        "Eye problems",
+        "Kidney problems"
+      ]
+    },
+    {
+      "name": "Primary Hyperparathyroidism",
+      "symptoms": [
+        "Kidney stones",
+        "Bone pain",
+        "Abdominal pain",
+        "Depression",
+        "Fatigue",
+        "Memory loss",
+        "Frequent urination",
+        "Joint pain"
+      ]
+    },
+    {
+      "name": "Microscopic Polyangiitis",
+      "symptoms": [
+        "Fatigue",
+        "Weight loss",
+        "Fever",
+        "Muscle/joint pain",
+        "Skin rash",
+        "Nerve problems",
+        "Kidney problems",
+        "Cough"
+      ]
+    },
+    {
+      "name": "Acromegaly",
+      "symptoms": [
+        "Enlarged hands/feet",
+        "Coarse facial features",
+        "Joint pain",
+        "Deep voice",
+        "Headaches",
+        "Vision problems",
+        "Sleep apnea",
+        "Excessive sweating"
+      ]
+    },
+    {
+      "name": "Churg-Strauss Syndrome",
+      "symptoms": [
+        "Asthma",
+        "Nasal allergies",
+        "Sinusitis",
+        "Numbness",
+        "Skin purpura",
+        "Abdominal pain",
+        "Weight loss",
+        "Heart problems"
+      ]
+    },
+    {
+      "name": "Takayasu's Arteritis",
+      "symptoms": [
+        "Fatigue",
+        "Weight loss",
+        "Fever",
+        "Arm/leg pain",
+        "Decreased pulses",
+        "High blood pressure",
+        "Dizziness",
+        "Vision problems"
+      ]
+    },
+    {
+      "name": "Pernicious Anemia",
+      "symptoms": [
+        "Fatigue",
+        "Shortness of breath",
+        "Pale skin",
+        "Numbness",
+        "Balance problems",
+        "Depression",
+        "Memory problems",
+        "Tongue soreness"
+      ]
+    },
+    {
+      "name": "Polyarteritis Nodosa",
+      "symptoms": [
+        "Fatigue",
+        "Weight loss",
+        "Muscle/joint pain",
+        "Skin nodules",
+        "High blood pressure",
+        "Abdominal pain",
+        "Kidney problems",
+        "Nerve problems"
+      ]
+    },
+    {
+      "name": "Adult Still's Disease",
+      "symptoms": [
+        "High fever",
+        "Salmon-colored rash",
+        "Joint pain",
+        "Muscle pain",
+        "Sore throat",
+        "Enlarged lymph nodes",
+        "Liver problems",
+        "Weight loss"
+      ]
+    },
+    {
+      "name": "Felty's Syndrome",
+      "symptoms": [
+        "Joint pain",
+        "Enlarged spleen",
+        "Low white blood cells",
+        "Recurrent infections",
+        "Leg ulcers",
+        "Fatigue",
+        "Weight loss",
+        "Eye problems"
+      ]
+    },
+    {
+      "name": "Dermatomyositis",
+      "symptoms": [
+        "Muscle weakness",
+        "Skin rash",
+        "Fatigue",
+        "Difficulty swallowing",
+        "Joint pain",
+        "Calcium deposits",
+        "Fever",
+        "Weight loss"
+      ]
+    },
+    {
+      "name": "Mixed Connective Tissue Disease",
+      "symptoms": [
+        "Raynaud's phenomenon",
+        "Joint pain",
+        "Muscle weakness",
+        "Swollen hands",
+        "Fatigue",
+        "Skin rash",
+        "Lung problems",
+        "Heart problems"
+      ]
+    },
+    {
+      "name": "IgA Nephropathy",
+      "symptoms": [
+        "Blood in urine",
+        "Foamy urine",
+        "High blood pressure",
+        "Swelling",
+        "Fatigue",
+        "Back pain",
+        "Frequent urination",
+        "Kidney failure"
+      ]
+    },
+    {
+      "name": "Primary Pulmonary Hypertension",
+      "symptoms": [
+        "Shortness of breath",
+        "Fatigue",
+        "Chest pain",
+        "Dizziness",
+        "Fainting",
+        "Swelling in ankles/legs",
+        "Heart palpitations",
+        "Cyanosis"
+      ]
+    },
+    {
+      "name": "Hereditary Spherocytosis",
+      "symptoms": [
+        "Anemia",
+        "Fatigue",
+        "Jaundice",
+        "Gallstones",
+        "Enlarged spleen",
+        "Shortness of breath",
+        "Pale skin",
+        "Weakness"
+      ]
+    },
+    {
+      "name": "Chronic Lymphocytic Leukemia",
+      "symptoms": [
+        "Fatigue",
+        "Enlarged lymph nodes",
+        "Night sweats",
+        "Weight loss",
+        "Frequent infections",
+        "Easy bruising",
+        "Bone pain",
+        "Fever"
+      ]
+    },
+    {
+      "name": "Alpha-1 Antitrypsin Deficiency",
+      "symptoms": [
+        "Shortness of breath",
+        "Wheezing",
+        "Chronic cough",
+        "Recurring chest infections",
+        "Fatigue",
+        "Liver problems",
+        "Weight loss",
+        "Vision problems"
+      ]
+    },
+    {
+      "name": "Hereditary Hemochromatosis",
+      "symptoms": [
+        "Joint pain",
+        "Fatigue",
+        "Abdominal pain",
+        "Diabetes",
+        "Skin darkening",
+        "Heart problems",
+        "Liver cirrhosis",
+        "Sexual dysfunction"
+      ]
+    },
+    {
+      "name": "Thrombotic Thrombocytopenic Purpura",
+      "symptoms": [
+        "Easy bruising",
+        "Fever",
+        "Confusion",
+        "Fatigue",
+        "Headache",
+        "Kidney problems",
+        "Bleeding gums",
+        "Jaundice"
+      ]
+    },
+    {
+      "name": "Familial Mediterranean Fever",
+      "symptoms": [
+        "Recurring fever",
+        "Abdominal pain",
+        "Chest pain",
+        "Joint pain",
+        "Skin rash",
+        "Muscle aches",
+        "Fatigue",
+        "Amyloidosis"
+      ]
+    },
+    {
+      "name": "Chronic Myeloid Leukemia",
+      "symptoms": [
+        "Fatigue",
+        "Weight loss",
+        "Night sweats",
+        "Enlarged spleen",
+        "Bone pain",
+        "Easy bleeding",
+        "Fever",
+        "Anemia"
+      ]
+    },
+    {
+      "name": "Autoimmune Hepatitis",
+      "symptoms": [
+        "Fatigue",
+        "Joint pain",
+        "Nausea",
+        "Abdominal pain",
+        "Jaundice",
+        "Itching",
+        "Dark urine",
+        "Spider angiomas"
+      ]
+    },
+    {
+      "name": "Hereditary Angioedema",
+      "symptoms": [
+        "Swelling of face/limbs",
+        "Abdominal pain",
+        "Difficulty breathing",
+        "Nausea",
+        "Vomiting",
+        "Fatigue",
+        "Throat swelling",
+        "Hoarseness"
+      ]
+    },
+    {
+      "name": "Cryoglobulinemia",
+      "symptoms": [
+        "Joint pain",
+        "Raynaud's phenomenon",
+        "Skin purpura",
+        "Weakness",
+        "Numbness",
+        "Kidney problems",
+        "Fatigue",
+        "Skin ulcers"
+      ]
+    },
+    {
+      "name": "Myelodysplastic Syndrome",
+      "symptoms": [
+        "Fatigue",
+        "Shortness of breath",
+        "Easy bruising/bleeding",
+        "Frequent infections",
+        "Pale skin",
+        "Petechiae",
+        "Weakness",
+        "Fever"
+      ]
+    },
+    {
+      "name": "Schnitzler Syndrome",
+      "symptoms": [
+        "Chronic hives",
+        "Fever",
+        "Bone pain",
+        "Joint pain",
+        "Muscle pain",
+        "Fatigue",
+        "Weight loss",
+        "Enlarged lymph nodes"
+      ]
+    },
+    {
+      "name": "POEMS Syndrome",
+      "symptoms": [
+        "Polyneuropathy",
+        "Enlarged organs",
+        "Endocrine abnormalities",
+        "Skin changes",
+        "Swelling",
+        "Fatigue",
+        "Weakness",
+        "Vision problems"
+      ]
+    },
+    {
+      "name": "Sweet's Syndrome",
+      "symptoms": [
+        "Fever",
+        "Painful skin lesions",
+        "Joint pain",
+        "Fatigue",
+        "Eye problems",
+        "Mouth ulcers",
+        "Headache",
+        "Muscle pain"
+      ]
+    },
+    {
+      "name": "Erdheim-Chester Disease",
+      "symptoms": [
+        "Bone pain",
+        "Diabetes insipidus",
+        "Vision problems",
+        "Balance problems",
+        "Fatigue",
+        "Weight loss",
+        "Breathing difficulties",
+        "Skin lesions"
+      ]
+    },
+    {
+      "name": "Castleman Disease",
+      "symptoms": [
+        "Enlarged lymph nodes",
+        "Fever",
+        "Night sweats",
+        "Fatigue",
+        "Weight loss",
+        "Nausea",
+        "Shortness of breath",
+        "Nerve problems"
+      ]
+    },
+    {
+      "name": "Henoch-Schonlein Purpura",
+      "symptoms": [
+        "Skin purpura",
+        "Joint pain",
+        "Abdominal pain",
+        "Blood in urine",
+        "Kidney problems",
+        "Swelling",
+        "Fever",
+        "Fatigue"
+      ]
+    },
+    {
+      "name": "Chronic Neutropenia",
+      "symptoms": [
+        "Frequent infections",
+        "Fever",
+        "Mouth sores",
+        "Fatigue",
+        "Pneumonia",
+        "Skin infections",
+        "Gingivitis",
+        "Weakness"
+      ]
+    },
+    {
+      "name": "Gaucher Disease",
+      "symptoms": [
+        "Enlarged spleen/liver",
+        "Bone pain",
+        "Easy bruising",
+        "Fatigue",
+        "Anemia",
+        "Growth delays",
+        "Joint pain",
+        "Bleeding problems"
+      ]
+    },
+    {
+      "name": "Fabry Disease",
+      "symptoms": [
+        "Burning pain in hands/feet",
+        "Decreased sweating",
+        "Skin rash",
+        "Kidney problems",
+        "Heart problems",
+        "Hearing loss",
+        "Eye problems",
+        "Digestive problems"
+      ]
+    },
+    {
+      "name": "Whipple's Disease",
+      "symptoms": [
+        "Joint pain",
+        "Diarrhea",
+        "Weight loss",
+        "Abdominal pain",
+        "Fatigue",
+        "Fever",
+        "Neurological problems",
+        "Skin darkening"
+      ]
+    },
+    {
+      "name": "Hereditary Hemorrhagic Telangiectasia",
+      "symptoms": [
+        "Nosebleeds",
+        "Skin telangiectasias",
+        "Anemia",
+        "Shortness of breath",
+        "Headaches",
+        "Liver problems",
+        "Digestive bleeding",
+        "Brain AVMs"
+      ]
+    },
+    {
+      "name": "Kikuchi Disease",
+      "symptoms": [
+        "Enlarged lymph nodes",
+        "Fever",
+        "Night sweats",
+        "Fatigue",
+        "Weight loss",
+        "Skin rash",
+        "Joint pain",
+        "Headache"
+      ]
+    },
+    {
+      "name": "Mastocytosis",
+      "symptoms": [
+        "Skin lesions",
+        "Itching",
+        "Flushing",
+        "Abdominal pain",
+        "Diarrhea",
+        "Bone pain",
+        "Fatigue",
+        "Anaphylaxis"
+      ]
+    },
+    {
+      "name": "Chronic Eosinophilic Leukemia",
+      "symptoms": [
+        "Fatigue",
+        "Weight loss",
+        "Night sweats",
+        "Cough",
+        "Shortness of breath",
+        "Muscle pain",
+        "Skin rash",
+        "Enlarged spleen"
+      ]
+    },
+    {
+      "name": "Hyper IgE Syndrome",
+      "symptoms": [
+        "Recurrent infections",
+        "Eczema",
+        "Skin abscesses",
+        "Bone abnormalities",
+        "Retained baby teeth",
+        "Facial features",
+        "Pneumonia",
+        "Scoliosis"
+      ]
+    },
+    {
+      "name": "Chronic Granulomatous Disease",
+      "symptoms": [
+        "Frequent infections",
+        "Pneumonia",
+        "Skin infections",
+        "Lymph node infections",
+        "Liver abscesses",
+        "Inflammatory bowel disease",
+        "Growth delays",
+        "Fatigue"
+      ]
+    },
+    {
+      "name": "Complement Deficiency",
+      "symptoms": [
+        "Recurrent infections",
+        "Autoimmune problems",
+        "Kidney disease",
+        "Skin rash",
+        "Joint pain",
+        "Fever",
+        "Fatigue",
+        "Blood clots"
+      ]
+    },
+    {
+      "name": "Hypereosinophilic Syndrome",
+      "symptoms": [
+        "Fatigue",
+        "Cough",
+        "Shortness of breath",
+        "Muscle pain",
+        "Skin rash",
+        "Diarrhea",
+        "Heart problems",
+        "Blood clots"
+      ]
+    },
+    {
+      "name": "SAPHO Syndrome",
+      "symptoms": [
+        "Joint pain",
+        "Bone pain",
+        "Skin problems",
+        "Chest wall pain",
+        "Swelling",
+        "Fatigue",
+        "Fever",
+        "Reduced mobility"
+      ]
+    },
+    {
+      "name": "Blau Syndrome",
+      "symptoms": [
+        "Joint swelling",
+        "Skin rash",
+        "Eye inflammation",
+        "Fever",
+        "Fatigue",
+        "Enlarged lymph nodes",
+        "Muscle weakness",
+        "Vision problems"
+      ]
+    },
+    {
+      "name": "Autoimmune Lymphoproliferative Syndrome",
+      "symptoms": [
+        "Enlarged lymph nodes",
+        "Enlarged spleen",
+        "Enlarged liver",
+        "Autoimmune problems",
+        "Easy bruising",
+        "Fatigue",
+        "Frequent infections",
+        "Anemia"
+      ]
+    },
+    {
+      "name": "Majeed Syndrome",
+      "symptoms": [
+        "Bone inflammation",
+        "Joint pain",
+        "Skin inflammation",
+        "Fever",
+        "Anemia",
+        "Growth delays",
+        "Fatigue",
+        "Muscle pain"
+      ]
+    },
+    {
+      "name": "CANDLE Syndrome",
+      "symptoms": [
+        "Recurring fever",
+        "Skin lesions",
+        "Joint pain",
+        "Fatigue",
+        "Lipodystrophy",
+        "Growth delays",
+        "Muscle weakness",
+        "Eye inflammation"
+      ]
+    },
+    {
+      "name": "PAPA Syndrome",
+      "symptoms": [
+        "Joint inflammation",
+        "Skin ulcers",
+        "Cystic acne",
+        "Fever",
+        "Pain",
+        "Fatigue",
+        "Muscle weakness",
+        "Depression"
+      ]
+    },
+    {
+      "name": "DADA2",
+      "symptoms": [
+        "Stroke",
+        "Fever",
+        "Skin rash",
+        "Joint pain",
+        "Hypertension",
+        "Immune deficiency",
+        "Fatigue",
+        "Muscle pain"
+      ]
     }
   ]
-}
+} 

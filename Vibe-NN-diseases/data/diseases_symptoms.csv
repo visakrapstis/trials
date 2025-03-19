@@ -1,0 +1,709 @@
+name,symptoms
+Hypertension (Essential),Often asymptomatic
+Hypertension (Essential),Headache
+Hypertension (Essential),Dizziness
+Hypertension (Essential),Shortness of breath
+Hypertension (Essential),Chest pain
+Hypertension (Essential),Visual changes
+Hypertension (Essential),Nosebleeds
+Hypertension (Essential),Tinnitus
+Type 2 Diabetes Mellitus,Increased thirst
+Type 2 Diabetes Mellitus,Frequent urination
+Type 2 Diabetes Mellitus,Increased hunger
+Type 2 Diabetes Mellitus,Fatigue
+Type 2 Diabetes Mellitus,Blurred vision
+Type 2 Diabetes Mellitus,Slow-healing sores
+Type 2 Diabetes Mellitus,Frequent infections
+Type 2 Diabetes Mellitus,Numbness in hands/feet
+Type 2 Diabetes Mellitus,Dark skin patches (acanthosis nigricans)
+Coronary Artery Disease,Chest pain (angina)
+Coronary Artery Disease,Shortness of breath
+Coronary Artery Disease,Fatigue
+Coronary Artery Disease,Neck/jaw/arm pain
+Coronary Artery Disease,Nausea
+Coronary Artery Disease,Sweating
+Coronary Artery Disease,Dizziness
+Coronary Artery Disease,Heart palpitations
+Coronary Artery Disease,Weakness
+Chronic Obstructive Pulmonary Disease (COPD),Shortness of breath
+Chronic Obstructive Pulmonary Disease (COPD),Chronic cough
+Chronic Obstructive Pulmonary Disease (COPD),Sputum production
+Chronic Obstructive Pulmonary Disease (COPD),Wheezing
+Chronic Obstructive Pulmonary Disease (COPD),Chest tightness
+Chronic Obstructive Pulmonary Disease (COPD),Fatigue
+Chronic Obstructive Pulmonary Disease (COPD),Frequent respiratory infections
+Chronic Obstructive Pulmonary Disease (COPD),Morning headaches
+Chronic Obstructive Pulmonary Disease (COPD),Cyanosis
+Gastroesophageal Reflux Disease (GERD),Heartburn
+Gastroesophageal Reflux Disease (GERD),Regurgitation
+Gastroesophageal Reflux Disease (GERD),Chest pain
+Gastroesophageal Reflux Disease (GERD),Difficulty swallowing
+Gastroesophageal Reflux Disease (GERD),Chronic cough
+Gastroesophageal Reflux Disease (GERD),Hoarseness
+Gastroesophageal Reflux Disease (GERD),Sore throat
+Gastroesophageal Reflux Disease (GERD),Bad breath
+Gastroesophageal Reflux Disease (GERD),Nausea
+Chronic Kidney Disease,Fatigue
+Chronic Kidney Disease,Decreased urine output
+Chronic Kidney Disease,Swelling in legs/ankles/feet
+Chronic Kidney Disease,Shortness of breath
+Chronic Kidney Disease,Nausea
+Chronic Kidney Disease,Confusion
+Chronic Kidney Disease,Chest pain
+Chronic Kidney Disease,Sleep problems
+Chronic Kidney Disease,Itching
+Rheumatoid Arthritis,Joint pain and swelling
+Rheumatoid Arthritis,Morning stiffness
+Rheumatoid Arthritis,Fatigue
+Rheumatoid Arthritis,Fever
+Rheumatoid Arthritis,Weight loss
+Rheumatoid Arthritis,Weakness
+Rheumatoid Arthritis,Rheumatoid nodules
+Rheumatoid Arthritis,Joint deformity
+Rheumatoid Arthritis,Eye inflammation
+Asthma,Wheezing
+Asthma,Shortness of breath
+Asthma,Chest tightness
+Asthma,Coughing
+Asthma,Difficulty sleeping
+Asthma,Exercise intolerance
+Asthma,Anxiety
+Asthma,Fatigue
+Asthma,Rapid breathing
+Hypothyroidism,Fatigue
+Hypothyroidism,Weight gain
+Hypothyroidism,Cold intolerance
+Hypothyroidism,Dry skin
+Hypothyroidism,Hair loss
+Hypothyroidism,Depression
+Hypothyroidism,Memory problems
+Hypothyroidism,Constipation
+Hypothyroidism,Muscle weakness
+Hypothyroidism,Joint pain
+Inflammatory Bowel Disease,Abdominal pain
+Inflammatory Bowel Disease,Diarrhea
+Inflammatory Bowel Disease,Weight loss
+Inflammatory Bowel Disease,Fatigue
+Inflammatory Bowel Disease,Blood in stool
+Inflammatory Bowel Disease,Reduced appetite
+Inflammatory Bowel Disease,Fever
+Inflammatory Bowel Disease,Night sweats
+Inflammatory Bowel Disease,Joint pain
+Systemic Lupus Erythematosus,Fatigue
+Systemic Lupus Erythematosus,Joint pain
+Systemic Lupus Erythematosus,Butterfly rash
+Systemic Lupus Erythematosus,Fever
+Systemic Lupus Erythematosus,Photosensitivity
+Systemic Lupus Erythematosus,Hair loss
+Systemic Lupus Erythematosus,Mouth ulcers
+Systemic Lupus Erythematosus,Raynaud's phenomenon
+Systemic Lupus Erythematosus,Chest pain
+Chronic Hepatitis B,Often asymptomatic
+Chronic Hepatitis B,Fatigue
+Chronic Hepatitis B,Abdominal pain
+Chronic Hepatitis B,Loss of appetite
+Chronic Hepatitis B,Nausea
+Chronic Hepatitis B,Jaundice
+Chronic Hepatitis B,Dark urine
+Chronic Hepatitis B,Joint pain
+Chronic Hepatitis B,Fever
+Multiple Sclerosis,Fatigue
+Multiple Sclerosis,Vision problems
+Multiple Sclerosis,Numbness/tingling
+Multiple Sclerosis,Muscle weakness
+Multiple Sclerosis,Balance problems
+Multiple Sclerosis,Cognitive changes
+Multiple Sclerosis,Depression
+Multiple Sclerosis,Bladder dysfunction
+Multiple Sclerosis,Sexual problems
+Celiac Disease,Diarrhea
+Celiac Disease,Abdominal pain
+Celiac Disease,Bloating
+Celiac Disease,Fatigue
+Celiac Disease,Weight loss
+Celiac Disease,Anemia
+Celiac Disease,Skin rash
+Celiac Disease,Depression
+Celiac Disease,Bone loss
+Chronic Heart Failure,Shortness of breath
+Chronic Heart Failure,Fatigue
+Chronic Heart Failure,Swelling in legs/ankles
+Chronic Heart Failure,Rapid heartbeat
+Chronic Heart Failure,Weakness
+Chronic Heart Failure,Reduced exercise tolerance
+Chronic Heart Failure,Cough
+Chronic Heart Failure,Nocturia
+Chronic Heart Failure,Confusion
+Parkinson's Disease,Tremor
+Parkinson's Disease,Bradykinesia
+Parkinson's Disease,Muscle rigidity
+Parkinson's Disease,Balance problems
+Parkinson's Disease,Speech changes
+Parkinson's Disease,Writing changes
+Parkinson's Disease,Depression
+Parkinson's Disease,Sleep problems
+Parkinson's Disease,Loss of smell
+Osteoporosis,Often asymptomatic
+Osteoporosis,Back pain
+Osteoporosis,Loss of height
+Osteoporosis,Stooped posture
+Osteoporosis,Bone fractures
+Osteoporosis,Reduced mobility
+Osteoporosis,Compressed vertebrae
+Osteoporosis,Neck pain
+Chronic Pancreatitis,Abdominal pain
+Chronic Pancreatitis,Weight loss
+Chronic Pancreatitis,Diarrhea
+Chronic Pancreatitis,Nausea
+Chronic Pancreatitis,Vomiting
+Chronic Pancreatitis,Fatty stools
+Chronic Pancreatitis,Diabetes
+Chronic Pancreatitis,Malnutrition
+Sarcoidosis,Fatigue
+Sarcoidosis,Shortness of breath
+Sarcoidosis,Cough
+Sarcoidosis,Night sweats
+Sarcoidosis,Weight loss
+Sarcoidosis,Joint pain
+Sarcoidosis,Skin lesions
+Sarcoidosis,Eye problems
+Sarcoidosis,Enlarged lymph nodes
+Primary Biliary Cirrhosis,Fatigue
+Primary Biliary Cirrhosis,Itching
+Primary Biliary Cirrhosis,Dry eyes/mouth
+Primary Biliary Cirrhosis,Jaundice
+Primary Biliary Cirrhosis,Abdominal pain
+Primary Biliary Cirrhosis,Dark urine
+Primary Biliary Cirrhosis,Bone pain
+Primary Biliary Cirrhosis,Memory problems
+Addison's Disease,Fatigue
+Addison's Disease,Muscle weakness
+Addison's Disease,Weight loss
+Addison's Disease,Low blood pressure
+Addison's Disease,Salt craving
+Addison's Disease,Skin darkening
+Addison's Disease,Depression
+Addison's Disease,Nausea
+Addison's Disease,Dizziness
+Polymyalgia Rheumatica,Morning stiffness
+Polymyalgia Rheumatica,Shoulder pain
+Polymyalgia Rheumatica,Hip pain
+Polymyalgia Rheumatica,Fatigue
+Polymyalgia Rheumatica,Low-grade fever
+Polymyalgia Rheumatica,Depression
+Polymyalgia Rheumatica,Weight loss
+Polymyalgia Rheumatica,Limited range of motion
+Pulmonary Embolism,Sudden shortness of breath
+Pulmonary Embolism,Chest pain
+Pulmonary Embolism,Rapid heartbeat
+Pulmonary Embolism,Anxiety
+Pulmonary Embolism,Cough
+Pulmonary Embolism,Fever
+Pulmonary Embolism,Leg pain/swelling
+Pulmonary Embolism,Dizziness
+Pulmonary Embolism,Sweating
+Myasthenia Gravis,Muscle weakness
+Myasthenia Gravis,Drooping eyelids
+Myasthenia Gravis,Double vision
+Myasthenia Gravis,Difficulty speaking
+Myasthenia Gravis,Trouble swallowing
+Myasthenia Gravis,Fatigue
+Myasthenia Gravis,Shortness of breath
+Myasthenia Gravis,Weakness worsening with activity
+Primary Sclerosing Cholangitis,Fatigue
+Primary Sclerosing Cholangitis,Itching
+Primary Sclerosing Cholangitis,Jaundice
+Primary Sclerosing Cholangitis,Abdominal pain
+Primary Sclerosing Cholangitis,Weight loss
+Primary Sclerosing Cholangitis,Night sweats
+Primary Sclerosing Cholangitis,Fever
+Primary Sclerosing Cholangitis,Dark urine
+Temporal Arteritis,Headache
+Temporal Arteritis,Scalp tenderness
+Temporal Arteritis,Jaw pain
+Temporal Arteritis,Vision problems
+Temporal Arteritis,Fever
+Temporal Arteritis,Fatigue
+Temporal Arteritis,Weight loss
+Temporal Arteritis,Shoulder/hip pain
+Ankylosing Spondylitis,Lower back pain
+Ankylosing Spondylitis,Morning stiffness
+Ankylosing Spondylitis,Reduced spine flexibility
+Ankylosing Spondylitis,Fatigue
+Ankylosing Spondylitis,Eye inflammation
+Ankylosing Spondylitis,Hip pain
+Ankylosing Spondylitis,Heel pain
+Ankylosing Spondylitis,Chest pain
+Graves' Disease,Weight loss
+Graves' Disease,Anxiety
+Graves' Disease,Heat intolerance
+Graves' Disease,Tremors
+Graves' Disease,Bulging eyes
+Graves' Disease,Rapid heartbeat
+Graves' Disease,Sweating
+Graves' Disease,Muscle weakness
+Graves' Disease,Irritability
+Hemochromatosis,Joint pain
+Hemochromatosis,Fatigue
+Hemochromatosis,Abdominal pain
+Hemochromatosis,Loss of sex drive
+Hemochromatosis,Skin darkening
+Hemochromatosis,Diabetes
+Hemochromatosis,Heart problems
+Hemochromatosis,Liver problems
+Polycystic Kidney Disease,High blood pressure
+Polycystic Kidney Disease,Back/side pain
+Polycystic Kidney Disease,Blood in urine
+Polycystic Kidney Disease,Kidney stones
+Polycystic Kidney Disease,Urinary tract infections
+Polycystic Kidney Disease,Headaches
+Polycystic Kidney Disease,Kidney failure
+Polycystic Kidney Disease,Liver cysts
+Polymyositis,Muscle weakness
+Polymyositis,Difficulty swallowing
+Polymyositis,Fatigue
+Polymyositis,Shortness of breath
+Polymyositis,Joint pain
+Polymyositis,Fever
+Polymyositis,Weight loss
+Polymyositis,Raynaud's phenomenon
+Amyloidosis,Fatigue
+Amyloidosis,Weight loss
+Amyloidosis,Swelling
+Amyloidosis,Shortness of breath
+Amyloidosis,Numbness
+Amyloidosis,Carpal tunnel syndrome
+Amyloidosis,Diarrhea
+Amyloidosis,Heart problems
+Behcet's Disease,Mouth sores
+Behcet's Disease,Genital sores
+Behcet's Disease,Eye inflammation
+Behcet's Disease,Skin lesions
+Behcet's Disease,Joint pain
+Behcet's Disease,Blood vessel inflammation
+Behcet's Disease,Fatigue
+Behcet's Disease,Headaches
+Wilson's Disease,Liver problems
+Wilson's Disease,Movement problems
+Wilson's Disease,Speech changes
+Wilson's Disease,Psychiatric problems
+Wilson's Disease,Golden-brown eye rings
+Wilson's Disease,Anemia
+Wilson's Disease,Kidney problems
+Wilson's Disease,Tremors
+Goodpasture's Syndrome,Coughing up blood
+Goodpasture's Syndrome,Shortness of breath
+Goodpasture's Syndrome,Fatigue
+Goodpasture's Syndrome,Blood in urine
+Goodpasture's Syndrome,Chest pain
+Goodpasture's Syndrome,Fever
+Goodpasture's Syndrome,Joint pain
+Goodpasture's Syndrome,Nausea
+Cushing's Syndrome,Weight gain
+Cushing's Syndrome,Round face
+Cushing's Syndrome,Buffalo hump
+Cushing's Syndrome,Purple stretch marks
+Cushing's Syndrome,High blood pressure
+Cushing's Syndrome,Diabetes
+Cushing's Syndrome,Muscle weakness
+Cushing's Syndrome,Mood changes
+Wegener's Granulomatosis,Sinus problems
+Wegener's Granulomatosis,Nose bleeds
+Wegener's Granulomatosis,Shortness of breath
+Wegener's Granulomatosis,Cough
+Wegener's Granulomatosis,Joint pain
+Wegener's Granulomatosis,Skin sores
+Wegener's Granulomatosis,Eye problems
+Wegener's Granulomatosis,Kidney problems
+Primary Hyperparathyroidism,Kidney stones
+Primary Hyperparathyroidism,Bone pain
+Primary Hyperparathyroidism,Abdominal pain
+Primary Hyperparathyroidism,Depression
+Primary Hyperparathyroidism,Fatigue
+Primary Hyperparathyroidism,Memory loss
+Primary Hyperparathyroidism,Frequent urination
+Primary Hyperparathyroidism,Joint pain
+Microscopic Polyangiitis,Fatigue
+Microscopic Polyangiitis,Weight loss
+Microscopic Polyangiitis,Fever
+Microscopic Polyangiitis,Muscle/joint pain
+Microscopic Polyangiitis,Skin rash
+Microscopic Polyangiitis,Nerve problems
+Microscopic Polyangiitis,Kidney problems
+Microscopic Polyangiitis,Cough
+Acromegaly,Enlarged hands/feet
+Acromegaly,Coarse facial features
+Acromegaly,Joint pain
+Acromegaly,Deep voice
+Acromegaly,Headaches
+Acromegaly,Vision problems
+Acromegaly,Sleep apnea
+Acromegaly,Excessive sweating
+Churg-Strauss Syndrome,Asthma
+Churg-Strauss Syndrome,Nasal allergies
+Churg-Strauss Syndrome,Sinusitis
+Churg-Strauss Syndrome,Numbness
+Churg-Strauss Syndrome,Skin purpura
+Churg-Strauss Syndrome,Abdominal pain
+Churg-Strauss Syndrome,Weight loss
+Churg-Strauss Syndrome,Heart problems
+Takayasu's Arteritis,Fatigue
+Takayasu's Arteritis,Weight loss
+Takayasu's Arteritis,Fever
+Takayasu's Arteritis,Arm/leg pain
+Takayasu's Arteritis,Decreased pulses
+Takayasu's Arteritis,High blood pressure
+Takayasu's Arteritis,Dizziness
+Takayasu's Arteritis,Vision problems
+Pernicious Anemia,Fatigue
+Pernicious Anemia,Shortness of breath
+Pernicious Anemia,Pale skin
+Pernicious Anemia,Numbness
+Pernicious Anemia,Balance problems
+Pernicious Anemia,Depression
+Pernicious Anemia,Memory problems
+Pernicious Anemia,Tongue soreness
+Polyarteritis Nodosa,Fatigue
+Polyarteritis Nodosa,Weight loss
+Polyarteritis Nodosa,Muscle/joint pain
+Polyarteritis Nodosa,Skin nodules
+Polyarteritis Nodosa,High blood pressure
+Polyarteritis Nodosa,Abdominal pain
+Polyarteritis Nodosa,Kidney problems
+Polyarteritis Nodosa,Nerve problems
+Adult Still's Disease,High fever
+Adult Still's Disease,Salmon-colored rash
+Adult Still's Disease,Joint pain
+Adult Still's Disease,Muscle pain
+Adult Still's Disease,Sore throat
+Adult Still's Disease,Enlarged lymph nodes
+Adult Still's Disease,Liver problems
+Adult Still's Disease,Weight loss
+Felty's Syndrome,Joint pain
+Felty's Syndrome,Enlarged spleen
+Felty's Syndrome,Low white blood cells
+Felty's Syndrome,Recurrent infections
+Felty's Syndrome,Leg ulcers
+Felty's Syndrome,Fatigue
+Felty's Syndrome,Weight loss
+Felty's Syndrome,Eye problems
+Dermatomyositis,Muscle weakness
+Dermatomyositis,Skin rash
+Dermatomyositis,Fatigue
+Dermatomyositis,Difficulty swallowing
+Dermatomyositis,Joint pain
+Dermatomyositis,Calcium deposits
+Dermatomyositis,Fever
+Dermatomyositis,Weight loss
+Mixed Connective Tissue Disease,Raynaud's phenomenon
+Mixed Connective Tissue Disease,Joint pain
+Mixed Connective Tissue Disease,Muscle weakness
+Mixed Connective Tissue Disease,Swollen hands
+Mixed Connective Tissue Disease,Fatigue
+Mixed Connective Tissue Disease,Skin rash
+Mixed Connective Tissue Disease,Lung problems
+Mixed Connective Tissue Disease,Heart problems
+IgA Nephropathy,Blood in urine
+IgA Nephropathy,Foamy urine
+IgA Nephropathy,High blood pressure
+IgA Nephropathy,Swelling
+IgA Nephropathy,Fatigue
+IgA Nephropathy,Back pain
+IgA Nephropathy,Frequent urination
+IgA Nephropathy,Kidney failure
+Primary Pulmonary Hypertension,Shortness of breath
+Primary Pulmonary Hypertension,Fatigue
+Primary Pulmonary Hypertension,Chest pain
+Primary Pulmonary Hypertension,Dizziness
+Primary Pulmonary Hypertension,Fainting
+Primary Pulmonary Hypertension,Swelling in ankles/legs
+Primary Pulmonary Hypertension,Heart palpitations
+Primary Pulmonary Hypertension,Cyanosis
+Hereditary Spherocytosis,Anemia
+Hereditary Spherocytosis,Fatigue
+Hereditary Spherocytosis,Jaundice
+Hereditary Spherocytosis,Gallstones
+Hereditary Spherocytosis,Enlarged spleen
+Hereditary Spherocytosis,Shortness of breath
+Hereditary Spherocytosis,Pale skin
+Hereditary Spherocytosis,Weakness
+Chronic Lymphocytic Leukemia,Fatigue
+Chronic Lymphocytic Leukemia,Enlarged lymph nodes
+Chronic Lymphocytic Leukemia,Night sweats
+Chronic Lymphocytic Leukemia,Weight loss
+Chronic Lymphocytic Leukemia,Frequent infections
+Chronic Lymphocytic Leukemia,Easy bruising
+Chronic Lymphocytic Leukemia,Bone pain
+Chronic Lymphocytic Leukemia,Fever
+Alpha-1 Antitrypsin Deficiency,Shortness of breath
+Alpha-1 Antitrypsin Deficiency,Wheezing
+Alpha-1 Antitrypsin Deficiency,Chronic cough
+Alpha-1 Antitrypsin Deficiency,Recurring chest infections
+Alpha-1 Antitrypsin Deficiency,Fatigue
+Alpha-1 Antitrypsin Deficiency,Liver problems
+Alpha-1 Antitrypsin Deficiency,Weight loss
+Alpha-1 Antitrypsin Deficiency,Vision problems
+Hereditary Hemochromatosis,Joint pain
+Hereditary Hemochromatosis,Fatigue
+Hereditary Hemochromatosis,Abdominal pain
+Hereditary Hemochromatosis,Diabetes
+Hereditary Hemochromatosis,Skin darkening
+Hereditary Hemochromatosis,Heart problems
+Hereditary Hemochromatosis,Liver cirrhosis
+Hereditary Hemochromatosis,Sexual dysfunction
+Thrombotic Thrombocytopenic Purpura,Easy bruising
+Thrombotic Thrombocytopenic Purpura,Fever
+Thrombotic Thrombocytopenic Purpura,Confusion
+Thrombotic Thrombocytopenic Purpura,Fatigue
+Thrombotic Thrombocytopenic Purpura,Headache
+Thrombotic Thrombocytopenic Purpura,Kidney problems
+Thrombotic Thrombocytopenic Purpura,Bleeding gums
+Thrombotic Thrombocytopenic Purpura,Jaundice
+Familial Mediterranean Fever,Recurring fever
+Familial Mediterranean Fever,Abdominal pain
+Familial Mediterranean Fever,Chest pain
+Familial Mediterranean Fever,Joint pain
+Familial Mediterranean Fever,Skin rash
+Familial Mediterranean Fever,Muscle aches
+Familial Mediterranean Fever,Fatigue
+Familial Mediterranean Fever,Amyloidosis
+Chronic Myeloid Leukemia,Fatigue
+Chronic Myeloid Leukemia,Weight loss
+Chronic Myeloid Leukemia,Night sweats
+Chronic Myeloid Leukemia,Enlarged spleen
+Chronic Myeloid Leukemia,Bone pain
+Chronic Myeloid Leukemia,Easy bleeding
+Chronic Myeloid Leukemia,Fever
+Chronic Myeloid Leukemia,Anemia
+Autoimmune Hepatitis,Fatigue
+Autoimmune Hepatitis,Joint pain
+Autoimmune Hepatitis,Nausea
+Autoimmune Hepatitis,Abdominal pain
+Autoimmune Hepatitis,Jaundice
+Autoimmune Hepatitis,Itching
+Autoimmune Hepatitis,Dark urine
+Autoimmune Hepatitis,Spider angiomas
+Hereditary Angioedema,Swelling of face/limbs
+Hereditary Angioedema,Abdominal pain
+Hereditary Angioedema,Difficulty breathing
+Hereditary Angioedema,Nausea
+Hereditary Angioedema,Vomiting
+Hereditary Angioedema,Fatigue
+Hereditary Angioedema,Throat swelling
+Hereditary Angioedema,Hoarseness
+Cryoglobulinemia,Joint pain
+Cryoglobulinemia,Raynaud's phenomenon
+Cryoglobulinemia,Skin purpura
+Cryoglobulinemia,Weakness
+Cryoglobulinemia,Numbness
+Cryoglobulinemia,Kidney problems
+Cryoglobulinemia,Fatigue
+Cryoglobulinemia,Skin ulcers
+Myelodysplastic Syndrome,Fatigue
+Myelodysplastic Syndrome,Shortness of breath
+Myelodysplastic Syndrome,Easy bruising/bleeding
+Myelodysplastic Syndrome,Frequent infections
+Myelodysplastic Syndrome,Pale skin
+Myelodysplastic Syndrome,Petechiae
+Myelodysplastic Syndrome,Weakness
+Myelodysplastic Syndrome,Fever
+Schnitzler Syndrome,Chronic hives
+Schnitzler Syndrome,Fever
+Schnitzler Syndrome,Bone pain
+Schnitzler Syndrome,Joint pain
+Schnitzler Syndrome,Muscle pain
+Schnitzler Syndrome,Fatigue
+Schnitzler Syndrome,Weight loss
+Schnitzler Syndrome,Enlarged lymph nodes
+POEMS Syndrome,Polyneuropathy
+POEMS Syndrome,Enlarged organs
+POEMS Syndrome,Endocrine abnormalities
+POEMS Syndrome,Skin changes
+POEMS Syndrome,Swelling
+POEMS Syndrome,Fatigue
+POEMS Syndrome,Weakness
+POEMS Syndrome,Vision problems
+Sweet's Syndrome,Fever
+Sweet's Syndrome,Painful skin lesions
+Sweet's Syndrome,Joint pain
+Sweet's Syndrome,Fatigue
+Sweet's Syndrome,Eye problems
+Sweet's Syndrome,Mouth ulcers
+Sweet's Syndrome,Headache
+Sweet's Syndrome,Muscle pain
+Erdheim-Chester Disease,Bone pain
+Erdheim-Chester Disease,Diabetes insipidus
+Erdheim-Chester Disease,Vision problems
+Erdheim-Chester Disease,Balance problems
+Erdheim-Chester Disease,Fatigue
+Erdheim-Chester Disease,Weight loss
+Erdheim-Chester Disease,Breathing difficulties
+Erdheim-Chester Disease,Skin lesions
+Castleman Disease,Enlarged lymph nodes
+Castleman Disease,Fever
+Castleman Disease,Night sweats
+Castleman Disease,Fatigue
+Castleman Disease,Weight loss
+Castleman Disease,Nausea
+Castleman Disease,Shortness of breath
+Castleman Disease,Nerve problems
+Henoch-Schonlein Purpura,Skin purpura
+Henoch-Schonlein Purpura,Joint pain
+Henoch-Schonlein Purpura,Abdominal pain
+Henoch-Schonlein Purpura,Blood in urine
+Henoch-Schonlein Purpura,Kidney problems
+Henoch-Schonlein Purpura,Swelling
+Henoch-Schonlein Purpura,Fever
+Henoch-Schonlein Purpura,Fatigue
+Chronic Neutropenia,Frequent infections
+Chronic Neutropenia,Fever
+Chronic Neutropenia,Mouth sores
+Chronic Neutropenia,Fatigue
+Chronic Neutropenia,Pneumonia
+Chronic Neutropenia,Skin infections
+Chronic Neutropenia,Gingivitis
+Chronic Neutropenia,Weakness
+Gaucher Disease,Enlarged spleen/liver
+Gaucher Disease,Bone pain
+Gaucher Disease,Easy bruising
+Gaucher Disease,Fatigue
+Gaucher Disease,Anemia
+Gaucher Disease,Growth delays
+Gaucher Disease,Joint pain
+Gaucher Disease,Bleeding problems
+Fabry Disease,Burning pain in hands/feet
+Fabry Disease,Decreased sweating
+Fabry Disease,Skin rash
+Fabry Disease,Kidney problems
+Fabry Disease,Heart problems
+Fabry Disease,Hearing loss
+Fabry Disease,Eye problems
+Fabry Disease,Digestive problems
+Whipple's Disease,Joint pain
+Whipple's Disease,Diarrhea
+Whipple's Disease,Weight loss
+Whipple's Disease,Abdominal pain
+Whipple's Disease,Fatigue
+Whipple's Disease,Fever
+Whipple's Disease,Neurological problems
+Whipple's Disease,Skin darkening
+Hereditary Hemorrhagic Telangiectasia,Nosebleeds
+Hereditary Hemorrhagic Telangiectasia,Skin telangiectasias
+Hereditary Hemorrhagic Telangiectasia,Anemia
+Hereditary Hemorrhagic Telangiectasia,Shortness of breath
+Hereditary Hemorrhagic Telangiectasia,Headaches
+Hereditary Hemorrhagic Telangiectasia,Liver problems
+Hereditary Hemorrhagic Telangiectasia,Digestive bleeding
+Hereditary Hemorrhagic Telangiectasia,Brain AVMs
+Kikuchi Disease,Enlarged lymph nodes
+Kikuchi Disease,Fever
+Kikuchi Disease,Night sweats
+Kikuchi Disease,Fatigue
+Kikuchi Disease,Weight loss
+Kikuchi Disease,Skin rash
+Kikuchi Disease,Joint pain
+Kikuchi Disease,Headache
+Mastocytosis,Skin lesions
+Mastocytosis,Itching
+Mastocytosis,Flushing
+Mastocytosis,Abdominal pain
+Mastocytosis,Diarrhea
+Mastocytosis,Bone pain
+Mastocytosis,Fatigue
+Mastocytosis,Anaphylaxis
+Chronic Eosinophilic Leukemia,Fatigue
+Chronic Eosinophilic Leukemia,Weight loss
+Chronic Eosinophilic Leukemia,Night sweats
+Chronic Eosinophilic Leukemia,Cough
+Chronic Eosinophilic Leukemia,Shortness of breath
+Chronic Eosinophilic Leukemia,Muscle pain
+Chronic Eosinophilic Leukemia,Skin rash
+Chronic Eosinophilic Leukemia,Enlarged spleen
+Hyper IgE Syndrome,Recurrent infections
+Hyper IgE Syndrome,Eczema
+Hyper IgE Syndrome,Skin abscesses
+Hyper IgE Syndrome,Bone abnormalities
+Hyper IgE Syndrome,Retained baby teeth
+Hyper IgE Syndrome,Facial features
+Hyper IgE Syndrome,Pneumonia
+Hyper IgE Syndrome,Scoliosis
+Chronic Granulomatous Disease,Frequent infections
+Chronic Granulomatous Disease,Pneumonia
+Chronic Granulomatous Disease,Skin infections
+Chronic Granulomatous Disease,Lymph node infections
+Chronic Granulomatous Disease,Liver abscesses
+Chronic Granulomatous Disease,Inflammatory bowel disease
+Chronic Granulomatous Disease,Growth delays
+Chronic Granulomatous Disease,Fatigue
+Complement Deficiency,Recurrent infections
+Complement Deficiency,Autoimmune problems
+Complement Deficiency,Kidney disease
+Complement Deficiency,Skin rash
+Complement Deficiency,Joint pain
+Complement Deficiency,Fever
+Complement Deficiency,Fatigue
+Complement Deficiency,Blood clots
+Hypereosinophilic Syndrome,Fatigue
+Hypereosinophilic Syndrome,Cough
+Hypereosinophilic Syndrome,Shortness of breath
+Hypereosinophilic Syndrome,Muscle pain
+Hypereosinophilic Syndrome,Skin rash
+Hypereosinophilic Syndrome,Diarrhea
+Hypereosinophilic Syndrome,Heart problems
+Hypereosinophilic Syndrome,Blood clots
+SAPHO Syndrome,Joint pain
+SAPHO Syndrome,Bone pain
+SAPHO Syndrome,Skin problems
+SAPHO Syndrome,Chest wall pain
+SAPHO Syndrome,Swelling
+SAPHO Syndrome,Fatigue
+SAPHO Syndrome,Fever
+SAPHO Syndrome,Reduced mobility
+Blau Syndrome,Joint swelling
+Blau Syndrome,Skin rash
+Blau Syndrome,Eye inflammation
+Blau Syndrome,Fever
+Blau Syndrome,Fatigue
+Blau Syndrome,Enlarged lymph nodes
+Blau Syndrome,Muscle weakness
+Blau Syndrome,Vision problems
+Autoimmune Lymphoproliferative Syndrome,Enlarged lymph nodes
+Autoimmune Lymphoproliferative Syndrome,Enlarged spleen
+Autoimmune Lymphoproliferative Syndrome,Enlarged liver
+Autoimmune Lymphoproliferative Syndrome,Autoimmune problems
+Autoimmune Lymphoproliferative Syndrome,Easy bruising
+Autoimmune Lymphoproliferative Syndrome,Fatigue
+Autoimmune Lymphoproliferative Syndrome,Frequent infections
+Autoimmune Lymphoproliferative Syndrome,Anemia
+Majeed Syndrome,Bone inflammation
+Majeed Syndrome,Joint pain
+Majeed Syndrome,Skin inflammation
+Majeed Syndrome,Fever
+Majeed Syndrome,Anemia
+Majeed Syndrome,Growth delays
+Majeed Syndrome,Fatigue
+Majeed Syndrome,Muscle pain
+CANDLE Syndrome,Recurring fever
+CANDLE Syndrome,Skin lesions
+CANDLE Syndrome,Joint pain
+CANDLE Syndrome,Fatigue
+CANDLE Syndrome,Lipodystrophy
+CANDLE Syndrome,Growth delays
+CANDLE Syndrome,Muscle weakness
+CANDLE Syndrome,Eye inflammation
+PAPA Syndrome,Joint inflammation
+PAPA Syndrome,Skin ulcers
+PAPA Syndrome,Cystic acne
+PAPA Syndrome,Fever
+PAPA Syndrome,Pain
+PAPA Syndrome,Fatigue
+PAPA Syndrome,Muscle weakness
+PAPA Syndrome,Depression
+DADA2,Stroke
+DADA2,Fever
+DADA2,Skin rash
+DADA2,Joint pain
+DADA2,Hypertension
+DADA2,Immune deficiency
+DADA2,Fatigue
+DADA2,Muscle pain

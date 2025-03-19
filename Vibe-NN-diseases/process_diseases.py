@@ -24,7 +24,7 @@ symptoms_encoded = pd.DataFrame(
 )
 
 # Function to augment data
-def augment_data(original_df, symptoms_encoded, num_samples=5000):
+def augment_data(original_df, symptoms_encoded, num_samples=50000):
     augmented_data = []
     disease_names = original_df['name'].tolist()
     all_symptoms = list(symptoms_encoded.columns)
@@ -53,6 +53,7 @@ def augment_data(original_df, symptoms_encoded, num_samples=5000):
 # Augment the data
 augmented_df = augment_data(df, symptoms_encoded)
 
+
 # Create dummy variables for augmented data
 mlb = MultiLabelBinarizer()
 symptoms_encoded_aug = pd.DataFrame(
@@ -60,6 +61,7 @@ symptoms_encoded_aug = pd.DataFrame(
     columns=mlb.classes_,
     index=augmented_df.index
 )
+symptoms_encoded_aug.to_csv('augmented_diseases.csv', index=False)
 
 # Encode disease names
 le = LabelEncoder()
@@ -109,6 +111,32 @@ history = model.fit(
     verbose=1
 )
 
+# Evaluate the model
+test_loss, test_accuracy = model.evaluate(X_test, y_test, verbose=0)
+print(f"\nTest accuracy: {test_accuracy:.4f}")
+
+# Plot training history
+plt.figure(figsize=(12, 4))
+
+plt.subplot(1, 2, 1)
+plt.plot(history.history['accuracy'], label='Training Accuracy')
+plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
+plt.title('Model Accuracy')
+plt.xlabel('Epoch')
+plt.ylabel('Accuracy')
+plt.legend()
+
+plt.subplot(1, 2, 2)
+plt.plot(history.history['loss'], label='Training Loss')
+plt.plot(history.history['val_loss'], label='Validation Loss')
+plt.title('Model Loss')
+plt.xlabel('Epoch')
+plt.ylabel('Loss')
+plt.legend()
+
+plt.tight_layout()
+plt.savefig('training_history.png')
+
 # Function to predict disease from symptoms
 def predict_disease(symptoms_list):
     # Convert symptoms to binary format
@@ -122,14 +150,44 @@ def predict_disease(symptoms_list):
     prediction = model.predict(input_symptoms)
     top_3_idx = prediction[0].argsort()[-3:][::-1]
     
-    print('\nTop 3 predicted diseases:')
+    print("\nTop 3 predicted diseases:")
     for idx in top_3_idx:
         disease_name = le.inverse_transform([idx])[0]
         confidence = prediction[0][idx] * 100
-        print(f'{disease_name}: {confidence:.2f}%')
+        print(f"{disease_name}: {confidence:.2f}%")
+
+# Test with 5 random diseases
+print("\nTesting with 5 random diseases:")
+test_diseases = random.sample(df['name'].tolist(), 5)
+for disease in test_diseases:
+    original_symptoms = df[df['name'] == disease]['symptoms'].iloc[0]
+    # Randomly select 3-5 symptoms from the disease
+    num_symptoms = random.randint(3, 5)
+    test_symptoms = random.sample(list(original_symptoms), min(num_symptoms, len(original_symptoms)))
+    print(f"\nTesting disease: {disease}")
+    print(f"Selected symptoms: {test_symptoms}")
+    predict_disease(test_symptoms)
 
 # Save the model
-model.save('disease_prediction_model.keras')
+model.save('disease_prediction_model')
+
+# Print model summary
+print("\nModel Architecture:")
+model.summary()
 
 # Save the augmented dataset
 augmented_df.to_csv('augmented_diseases.csv', index=False)
+
+# Calculate sparsity of the dataset
+sparsity = (symptoms_encoded_aug.values == 0).sum() / (symptoms_encoded_aug.shape[0] * symptoms_encoded_aug.shape[1])
+
+# Save the ML-ready dataset
+ml_ready_df = pd.concat([augmented_df['name'], symptoms_encoded_aug], axis=1)
+ml_ready_df.to_csv('diseases_ml_ready.csv', index=False)
+
+# Create a correlation matrix between symptoms
+corr_matrix = symptoms_encoded_aug.corr()
+# Get upper triangle of correlations
+upper = corr_matrix.where(np.triu(np.ones(corr_matrix.shape), k=1).astype(bool))
+# Find top 10 highest correlations
+highest_corr = upper.unstack().sort_values(ascending=False)[:10] 
