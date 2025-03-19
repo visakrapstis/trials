@@ -1,0 +1,4 @@
+Disease,Fever,Joint_Pain,Fatigue,Skin_Rash,Abdominal_Pain,Weight_Loss,Headache,Muscle_Pain,Shortness_of_Breath,Chest_Pain
+Rheumatoid Arthritis,1,1,1,0,0,1,0,0,0,0
+Inflammatory Bowel Disease,1,1,1,0,1,1,0,0,0,0
+Systemic Lupus Erythematosus,1,1,1,1,0,0,0,0,0,0
