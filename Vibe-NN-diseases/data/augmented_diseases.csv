@@ -1,0 +1,6 @@
+Disease,Fever,Joint Pain,Fatigue,Skin Rash,Abdominal Pain,Weight Loss,Headache,Muscle Pain,Shortness of Breath,Chest Pain
+Rheumatoid Arthritis,1,1,1,0,0,1,0,0,0,0
+Inflammatory Bowel Disease,1,1,1,0,1,1,0,0,0,0
+Systemic Lupus Erythematosus,1,1,1,1,0,0,0,0,0,0
+Chronic Hepatitis B,1,1,1,0,1,0,0,0,0,0
+Pulmonary Embolism,1,0,0,0,0,0,0,0,1,1

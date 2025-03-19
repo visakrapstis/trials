@@ -1,0 +1,16 @@
+{
+  "diseases": [
+    {
+      "name": "Rheumatoid Arthritis",
+      "symptoms": ["Joint Pain", "Morning Stiffness", "Fatigue", "Fever", "Joint Swelling", "Symmetrical Joint Involvement", "Weight Loss", "Rheumatoid Nodules"]
+    },
+    {
+      "name": "Inflammatory Bowel Disease",
+      "symptoms": ["Abdominal Pain", "Diarrhea", "Weight Loss", "Fatigue", "Fever", "Blood in Stool", "Joint Pain", "Skin Lesions"]
+    },
+    {
+      "name": "Systemic Lupus Erythematosus",
+      "symptoms": ["Joint Pain", "Fatigue", "Fever", "Butterfly Rash", "Photosensitivity", "Hair Loss", "Raynaud's Phenomenon", "Kidney Problems"]
+    }
+  ]
+}
